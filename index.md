@@ -3,9 +3,7 @@
 
 # Cool Science in Cold Places
 
-
-
-{% include section.html %}
+The Mikucki lab studies the interactions between microbes and their environment and how the impact of microbial metabolism is detectable on an ecosystem scale. Subglacial environments serve as our “model” ecosystem because their isolation and relatively simple food-webs allow for the study of microbially-mediated processes, which can be difficult to identify in more complex ecosystems.
 
 ## Highlights
 
