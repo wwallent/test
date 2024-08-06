@@ -1,247 +1,1062 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.ohx.2023.e00490
+  title: 'OpenASAP: An affordable 3D printed atmospheric solids analysis probe (ASAP)
+    mass spectrometry system for direct analysis of solid and liquid samples'
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Robert Samples
+  - Riko Mukoyama
+  - Jacob Shaffer
+  - Jill Mikucki
+  - Lesley-Ann Giddings
+  publisher: HardwareX
+  date: '2023-12-01'
+  link: https://doi.org/gt567r
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+- id: doi:10.1089/ast.2021.0102
+  title: 'Field-Based Planetary Protection Operations for Melt Probes: Validation
+    of Clean Access into the Blood Falls, Antarctica, Englacial Ecosystem'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - J.A. Mikucki
+  - C.G. Schuler
+  - I. Digel
+  - J. Kowalski
+  - M.J. Tuttle
+  - M. Chua
+  - R. Davis
+  - A.M. Purcell
+  - D. Ghosh
+  - G. Francke
+  - M. Feldmann
+  - C. Espe
+  - D. Heinen
+  - B. Dachwald
+  - J. Clemens
+  - W.B. Lyons
+  - S. Tulaczyk
+  publisher: Astrobiology
+  date: '2023-11-01'
+  link: https://doi.org/gt567k
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1089/ast.2021.0106
+  title: 'Microbial Transport by a Descending Ice Melting Probe: Implications for
+    Subglacial and Ocean World Exploration'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Caleb G. Schuler
+  - Dale P. Winebrenner
+  - W. Timothy Elam
+  - Justin Burnett
+  - Bruce W. Boles
+  - Jill A. Mikucki
+  publisher: Astrobiology
+  date: '2023-11-01'
+  link: https://doi.org/gt567m
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1029/2022JF006696
+  title: "Causes and Characteristics of Electrical Resistivity Variability in Shallow\
+    \ (&lt;4\_m) Soils in Taylor Valley, East Antarctica"
+  authors:
+  - W. S. Gutterman
+  - P. T. Doran
+  - R. A. Virginia
+  - J. E. Barrett
+  - K. F. Myers
+  - S. M. Tulaczyk
+  - N. T. Foley
+  - J. A. Mikucki
+  - H. A. Dugan
+  - D. J. Grombacher
+  - T. S. Bording
+  - E. Auken
+  publisher: 'Journal of Geophysical Research: Earth Surface'
+  date: '2023-02-01'
+  link: https://doi.org/gt567s
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fmicb.2023.1156033
+  title: Genomic and phenotypic characterization of a red-pigmented strain of Massilia
+    frigida isolated from an Antarctic microbial mat
+  authors:
+  - Jacob M. C. Shaffer
+  - Lesley-Ann Giddings
+  - Robert M. Samples
+  - Jill A. Mikucki
+  publisher: Frontiers in Microbiology
+  date: '2023-05-12'
+  link: https://doi.org/gt567t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.5194/tc-16-4977-2022
+  title: 'Brief communication: The hidden labyrinth: deep groundwater in Wright Valley,
+    Antarctica'
+  authors:
+  - Hilary A. Dugan
+  - Peter T. Doran
+  - Denys Grombacher
+  - Esben Auken
+  - Thue Bording
+  - Nikolaj Foged
+  - Neil Foley
+  - Jill Mikucki
+  - Ross A. Virginia
+  - Slawek Tulaczyk
+  publisher: The Cryosphere
+  date: '2022-12-16'
+  link: https://doi.org/gt567v
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.2212800119
+  title: The time is right for an Antarctic biorepository network
+  authors:
+  - "Kristin M. O\u2019Brien"
+  - Elizabeth L. Crockett
+  - Byron J. Adams
+  - Charles D. Amsler
+  - Hannah J. Appiah-Madson
+  - Allen Collins
+  - Thomas Desvignes
+  - H. William Detrich
+  - Daniel L. Distel
+  - Sarah M. Eppley
+  - Benjamin W. Frable
+  - Nico M. Franz
+  - Jeffrey M. Grim
+  - Kevin M. Kocot
+  - Andrew R. Mahon
+  - Teresa J. Mayfield-Meyer
+  - Jill A. Mikucki
+  - William E. Moser
+  - Michaela Schmull
+  - Charlotte A. Seid
+  - Craig R. Smith
+  - Anne E. Todgham
+  - Gregory J. Watkins-Colwell
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2022-12-08'
+  link: https://doi.org/grk27d
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.coldregions.2022.103578
+  title: 'Comparison of ground-based and airborne transient electromagnetic methods
+    for mapping glacial and permafrost environments: Cases from McMurdo Dry Valleys,
+    Antarctica'
+  authors:
+  - Line M. Madsen
+  - Thue Bording
+  - Denys Grombacher
+  - Nikolaj Foged
+  - Neil Foley
+  - Hilary A. Dugan
+  - Peter T. Doran
+  - Jill Mikucki
+  - Slawek Tulaczyk
+  - Esben Auken
+  publisher: Cold Regions Science and Technology
+  date: '2022-07-01'
+  link: https://doi.org/gt567w
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fspas.2022.843174
+  title: A Multi-Technique Analysis of Surface Materials From Blood Falls, Antarctica
+  authors:
+  - Elizabeth C. Sklute
+  - Jill A. Mikucki
+  - M. Darby Dyar
+  - Peter A. Lee
+  - Ken J. T. Livi
+  - Sarina Mitchell
+  publisher: Frontiers in Astronomy and Space Sciences
+  date: '2022-05-30'
+  link: https://doi.org/gqdr4t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s43017-021-00246-9
+  title: Subglacial lakes and their changing role in a warming climate
+  authors:
+  - Stephen J. Livingstone
+  - Yan Li
+  - Anja Rutishauser
+  - Rebecca J. Sanderson
+  - Kate Winter
+  - Jill A. Mikucki
+  - "Helgi Bj\xF6rnsson"
+  - Jade S. Bowling
+  - Winnie Chu
+  - Christine F. Dow
+  - Helen A. Fricker
+  - Malcolm McMillan
+  - Felix S. L. Ng
+  - Neil Ross
+  - Martin J. Siegert
+  - Matthew Siegfried
+  - Andrew J. Sole
+  publisher: Nature Reviews Earth &amp; Environment
+  date: '2022-01-04'
+  link: https://doi.org/gn2cwg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/03067319.2019.1704750
+  title: Validation of sampling antarctic subglacial hypersaline waters with an electrothermal
+    ice melting probe (IceMole) for environmental analytical geochemistry
+  authors:
+  - Laura German
+  - Jill A. Mikucki
+  - Susan A. Welch
+  - Welch Kathleen A.
+  - Anthony Lutton
+  - Bernd Dachwald
+  - Julia Kowalski
+  - Dirk Heinen
+  - Marco Feldmann
+  - Gero Francke
+  - Clemens Espe
+  - W. Berry Lyons
+  publisher: International Journal of Environmental Analytical Chemistry
+  date: '2019-12-27'
+  link: https://doi.org/gsdmxp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.5194/tc-15-4655-2021
+  title: Did Holocene climate changes drive West Antarctic grounding line retreat
+    and readvance?
+  authors:
+  - Sarah U. Neuhaus
+  - Slawek M. Tulaczyk
+  - Nathan D. Stansell
+  - Jason J. Coenen
+  - Reed P. Scherer
+  - Jill A. Mikucki
+  - Ross D. Powell
+  publisher: The Cryosphere
+  date: '2021-10-05'
+  link: https://doi.org/gt567x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/gji/ggab148
+  title: Induced polarization effects in airborne transient electromagnetic data collected
+    in the McMurdo Dry Valleys, Antarctica
+  authors:
+  - Denys Grombacher
+  - Esben Auken
+  - Nikolaj Foged
+  - Thue Bording
+  - Neil Foley
+  - Peter T Doran
+  - Jill Mikucki
+  - Hilary A Dugan
+  - Ricardo Garza-Giron
+  - Krista Myers
+  - Ross A Virginia
+  - Slawek Tulaczyk
+  publisher: Geophysical Journal International
+  date: '2021-05-05'
+  link: https://doi.org/gt567z
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.5194/tc-15-3577-2021
+  title: Thermal legacy of a large paleolake in Taylor Valley, East Antarctica, as
+    evidenced by an airborne electromagnetic survey
+  authors:
+  - Krista F. Myers
+  - Peter T. Doran
+  - Slawek M. Tulaczyk
+  - Neil T. Foley
+  - Thue S. Bording
+  - Esben Auken
+  - Hilary A. Dugan
+  - Jill A. Mikucki
+  - Nikolaj Foged
+  - Denys Grombacher
+  - Ross A. Virginia
+  publisher: The Cryosphere
+  date: '2021-08-03'
+  link: https://doi.org/gqhkk5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1128/mra.01141-20
+  title: "Draft Genome Sequence of\n            <i>Shewanella</i>\n            sp.\
+    \ Strain BF02_Schw, Isolated from Blood Falls, a Feature Where Subglacial Brine\
+    \ Discharges to the Surface of Taylor Glacier, Antarctica"
+  authors:
+  - Bruce W. Boles
+  - Robert W. Murdoch
+  - Ingemar Ohlsson
+  - Jill A. Mikucki
+  publisher: Microbiology Resource Announcements
+  date: '2021-06-03'
+  link: https://doi.org/gkjpmc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3847/25c2cfeb.4a582a02
+  title: Planetary Protection Knowledge Gaps and Enabling Science for Human Mars Missions
+  authors:
+  - J Andy Spry
+  - Bette Siegel
+  - Gerhard Kminek
+  - Corien Bakermans
+  - J. Nick Benardini
+  - Esther Beltran
+  - Rosalba Bonaccorsi
+  - John Canham
+  - Marie-Christine Desjean
+  - Peter Doran
+  - John E. Hallsworth
+  - Javier Martin-Torres
+  - Jill Mikucki
+  - Tullis Onstott
+  - George Profitiliotis
+  - Aaron Regberg
+  - Petra Rettberg
+  - John Rummel
+  - Kevin Sato
+  - Andrew Schuerger
+  - Nitin Singh
+  - Carol Stoker
+  - Kasthuri Venkateswaran
+  - Robert Zimmerman
+  - Maria-Paz Zorzano
+  publisher: Bulletin of the AAS
+  date: '2021-03-18'
+  link: https://doi.org/gt5672
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3847/25c2cfeb.1f3849db
+  title: "On the Past, Present, and Future Role of Biology in NASA\u2019s Exploration\
+    \ of our Solar System"
+  authors:
+  - Kevin Hand
+  - Cynthia B. Phillips
+  - Christopher F. Chyba
+  - Brandy Toner
+  - Kakani Katija
+  - Victoria Orphan
+  - Julie Huber
+  - Colleen M. Cavanaugh
+  - Marian Carlson
+  - Brent Christner
+  - Alexis Templeton
+  - Jeffrey Seewald
+  - Jason D. Hofgartner
+  - Jan P. Amend
+  - Beth N. Orcutt
+  - Douglas H. Bartlett
+  - Paul Falkowski
+  - Rika Anderson
+  - John R. Spear
+  - Tim Shank
+  - Woodward W. Fischer
+  - Robert M. Hazen
+  - Tori Hoehler
+  - Steven D'Hondt
+  - Jo Pitesky
+  - Kennda Lynch
+  - Everett L. Shock
+  - Kate Craft
+  - Eric Boyd
+  - Christopher H. House
+  - Anna-Louise Reysenbach
+  - Jennifer Glass
+  - David Fike
+  - John A. Baross
+  - Johann Peter Gogarten
+  - "Bet\xFCl Ka\xE7ar"
+  - Moh El-Naggar
+  - Alison E. Murray
+  - Christopher Dupont
+  - Jennifer Scully
+  - Lynn Rothschild
+  - Elizabeth Trembath-Reichert
+  - Frieder Klein
+  - Phoebe A. Cohen
+  - Gillian H. Gile
+  - Karen Lloyd
+  - Anne Dekas
+  - John R. Delaney
+  - Mark Skidmore
+  - Joy Buongiorno
+  - Karyn Rogers
+  - Amy Hofmann
+  - William J. Brazelton
+  - Ariel Anbar
+  - Dana Ann Manalang
+  - Bradley Stevenson
+  - Susanne Neuer
+  - Ellie Hara
+  - Thomas Nordheim
+  - Russell Shapiro
+  - Alexander S. Bradley
+  - Jill Mikucki
+  - Michael E. Brown
+  - Mihaela Glamoclija
+  - Carolina Reyes
+  - "M\xF3nica S\xE1nchez-Rom\xE1n"
+  - Jack D. Farmer
+  - Donato Giovannelli
+  - Gurol Suel
+  - Samantha Trumbo
+  - Marissa Cameron
+  - Magdalena Osburn
+  - James Andrew Bradley
+  - Ferran Garcia-Pichel
+  - Andrew D. Steen
+  - Jeffrey Marlow
+  - Gareth Trubl
+  - Kirtland Robinson
+  - Tristan Caro
+  - Victoria Fulfer
+  - Ceth W. Parker
+  - Jayme Feyhl-Buska
+  - "Ana\xEFs Roussel"
+  publisher: Bulletin of the AAS
+  date: '2021-03-18'
+  link: https://doi.org/gt5673
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3847/PSJ/abae57
+  title: Detection Limits for Chiral Amino Acids Using a Polarization Camera
+  authors:
+  - Claire Cook
+  - Shane Byrne
+  - "Christian Drouet d\u2019Aubigny"
+  - Donna Viola
+  - Jill Mikucki
+  - Walther Ellis
+  publisher: The Planetary Science Journal
+  date: '2020-09-01'
+  link: https://doi.org/gt5674
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41559-020-1163-0
+  title: Glacial ecosystems are essential to understanding biodiversity responses
+    to glacier retreat
+  authors:
+  - Marek Stibal
+  - James A. Bradley
+  - Arwyn Edwards
+  - Scott Hotaling
+  - Krzysztof Zawierucha
+  - "J\xF8rgen Rosvold"
+  - Stefanie Lutz
+  - Karen A. Cameron
+  - Jill A. Mikucki
+  - Tyler J. Kohler
+  - "Marie \u0160aback\xE1"
+  - Alexandre M. Anesio
+  publisher: Nature Ecology &amp; Evolution
+  date: '2020-03-30'
+  link: https://doi.org/ggqk43
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1029/2019GB006446
+  title: "Biogeochemical Connectivity Between Freshwater Ecosystems beneath the West\
+    \ Antarctic Ice Sheet and the Sub\u2010Ice Marine Environment"
+  authors:
+  - "Trista J. Vick\u2010Majors"
+  - Alexander B. Michaud
+  - Mark L. Skidmore
+  - Clara Turetta
+  - Carlo Barbante
+  - Brent C. Christner
+  - John E. Dore
+  - Knut Christianson
+  - Andrew C. Mitchell
+  - Amanda M. Achberger
+  - Jill A. Mikucki
+  - John C. Priscu
+  publisher: Global Biogeochemical Cycles
+  date: '2020-02-26'
+  link: https://doi.org/gt5675
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/08123985.2019.1651618
+  title: Mapping geothermal heat flux using permafrost thickness constrained by airborne
+    electromagnetic surveys on the western coast of Ross Island, Antarctica
+  authors:
+  - Neil Foley
+  - Slawomir Tulaczyk
+  - Esben Auken
+  - Denys Grombacher
+  - Jill Mikucki
+  - Nikolaj Foged
+  - Krista Myers
+  - Hilary Dugan
+  - Peter T. Doran
+  - Ross A. Virginia
+  publisher: Exploration Geophysics
+  date: '2019-08-22'
+  link: https://doi.org/gt5676
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/1462-2920.14607
+  title: "Microbial diversity of an Antarctic subglacial community and high\u2010\
+    resolution replicate sampling inform hydrological connectivity in a polar desert"
+  authors:
+  - Richard Campen
+  - Julia Kowalski
+  - W. Berry Lyons
+  - Slawek Tulaczyk
+  - Bernd Dachwald
+  - Erin Pettit
+  - Kathleen A. Welch
+  - Jill A. Mikucki
+  publisher: Environmental Microbiology
+  date: '2019-04-16'
+  link: https://doi.org/gt5677
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/hydrology6020054
+  title: Evidence for Pathways of Concentrated Submarine Groundwater Discharge in
+    East Antarctica from Helicopter-Borne Electrical Resistivity Measurements
+  authors:
+  - Neil Foley
+  - Slawek M. Tulaczyk
+  - Denys Grombacher
+  - Peter T. Doran
+  - Jill Mikucki
+  - Krista F. Myers
+  - Nikolaj Foged
+  - Hilary Dugan
+  - Esben Auken
+  - Ross Virginia
+  publisher: Hydrology
+  date: '2019-06-20'
+  link: https://doi.org/gt5678
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1029/2018JG004411
+  title: The Geochemistry of Englacial Brine From Taylor Glacier, Antarctica
+  authors:
+  - W. Berry Lyons
+  - Jill A. Mikucki
+  - Laura A. German
+  - Kathleen A. Welch
+  - Susan A. Welch
+  - Christopher B. Gardner
+  - Slawek M. Tulaczyk
+  - Erin C. Pettit
+  - Julia Kowalski
+  - Bernd Dachwald
+  publisher: 'Journal of Geophysical Research: Biogeosciences'
+  date: '2019-03-01'
+  link: https://doi.org/gft5jg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/femsec/fiy021
+  title: Genomic and physiological characterization and description of Marinobacter
+    gelidimuriae sp. nov., a psychrophilic, moderate halophile from Blood Falls, an
+    antarctic subglacial brine
+  authors:
+  - Michelle J Chua
+  - Richard L Campen
+  - Lindsay Wahl
+  - Joseph J Grzymski
+  - Jill A Mikucki
+  publisher: FEMS Microbiology Ecology
+  date: '2018-02-10'
+  link: https://doi.org/gczgqq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1029/2018JC013987
+  title: Ocean Stratification and Low Melt Rates at the Ross Ice Shelf Grounding Zone
+  authors:
+  - Carolyn Branecky Begeman
+  - Slawek M. Tulaczyk
+  - Oliver J. Marsh
+  - Jill A. Mikucki
+  - Timothy P. Stanton
+  - Timothy O. Hodson
+  - Matthew R. Siegfried
+  - Ross D. Powell
+  - Knut Christianson
+  - Matt A. King
+  publisher: 'Journal of Geophysical Research: Oceans'
+  date: '2018-10-01'
+  link: https://doi.org/gd85m5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1017/jog.2017.16
+  title: 'An englacial hydrologic system of brine within a cold glacier: Blood Falls,
+    McMurdo Dry Valleys, Antarctica'
+  authors:
+  - JESSICA A. BADGELEY
+  - ERIN C. PETTIT
+  - CHRISTINA G. CARR
+  - SLAWEK TULACZYK
+  - JILL A. MIKUCKI
+  - W. BERRY LYONS
+  publisher: Journal of Glaciology
+  date: '2017-04-24'
+  link: https://doi.org/gbgtjh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fmicb.2016.01705
+  title: Physiological Ecology of Microorganisms in Subglacial Lake Whillans
+  authors:
+  - Trista J. Vick-Majors
+  - Andrew C. Mitchell
+  - Amanda M. Achberger
+  - Brent C. Christner
+  - John E. Dore
+  - Alexander B. Michaud
+  - Jill A. Mikucki
+  - Alicia M. Purcell
+  - Mark L. Skidmore
+  - John C. Priscu
+  publisher: Frontiers in Microbiology
+  date: '2016-10-27'
+  link: https://doi.org/gmzbmg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.coldregions.2015.11.006
+  title: Navigation technology for exploration of glacier ice with maneuverable melting
+    probes
+  authors:
+  - J. Kowalski
+  - P. Linder
+  - S. Zierke
+  - B. von Wulfen
+  - J. Clemens
+  - K. Konstantinidis
+  - G. Ameres
+  - R. Hoffmann
+  - J. Mikucki
+  - S. Tulaczyk
+  - O. Funke
+  - D. Blandfort
+  - C. Espe
+  - M. Feldmann
+  - G. Francke
+  - S. Hiecker
+  - E. Plescher
+  - "S. Sch\xF6ngarth"
+  - "K. Sch\xFCller"
+  - B. Dachwald
+  - I. Digel
+  - G. Artmann
+  - D. Eliseev
+  - D. Heinen
+  - F. Scholz
+  - C. Wiebusch
+  - S. Macht
+  - U. Bestmann
+  - T. Reineking
+  - C. Zetzsche
+  - K. Schill
+  - "R. F\xF6rstner"
+  - H. Niedermeier
+  - A. Szumski
+  - B. Eissfeller
+  - U. Naumann
+  - K. Helbing
+  publisher: Cold Regions Science and Technology
+  date: '2016-03-01'
+  link: https://doi.org/f79crr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/lno.10234
+  title: Biogeochemistry and microbial diversity in the marine cavity beneath the
+    McMurdo Ice Shelf, Antarctica
+  authors:
+  - Trista J. Vick-Majors
+  - Amanda Achberger
+  - "Pamela Santib\xE1\xF1ez"
+  - John E. Dore
+  - Timothy Hodson
+  - Alexander B. Michaud
+  - Brent C. Christner
+  - Jill Mikucki
+  - Mark L. Skidmore
+  - Ross Powell
+  - W. Peyton Adkins
+  - Carlo Barbante
+  - Andrew Mitchell
+  - Reed Scherer
+  - John C. Priscu
+  publisher: Limnology and Oceanography
+  date: '2015-11-30'
+  link: https://doi.org/f8d455
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1098/rsta.2014.0290
+  title: 'Subglacial Lake Whillans microbial biogeochemistry: a synthesis of current
+    knowledge'
+  authors:
+  - J. A. Mikucki
+  - P. A. Lee
+  - D. Ghosh
+  - A. M. Purcell
+  - A. C. Mitchell
+  - K. D. Mankoff
+  - A. T. Fisher
+  - S. Tulaczyk
+  - S. Carter
+  - M. R. Siegfried
+  - H. A. Fricker
+  - T. Hodson
+  - J. Coenen
+  - R. Powell
+  - R. Scherer
+  - T. Vick-Majors
+  - A. A. Achberger
+  - B. C. Christner
+  - M. Tranter
+  publisher: 'Philosophical Transactions of the Royal Society A: Mathematical, Physical
+    and Engineering Sciences'
+  date: '2016-01-28'
+  link: https://doi.org/gftjhc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1190/geo2015-0186.1
+  title: 'Helicopter-borne transient electromagnetics in high-latitude environments:
+    An application in the McMurdo Dry Valleys, Antarctica'
+  authors:
+  - Neil Foley
+  - Slawek Tulaczyk
+  - Esben Auken
+  - Cyril Schamper
+  - Hilary Dugan
+  - Jill Mikucki
+  - Ross Virginia
+  - Peter Doran
+  publisher: GEOPHYSICS
+  date: '2016-01-01'
+  link: https://doi.org/gt5679
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nrmicro3522
+  title: 'Microbial ecology of the cryosphere: sea ice and glacial habitats'
+  authors:
+  - Antje Boetius
+  - Alexandre M. Anesio
+  - Jody W. Deming
+  - Jill A. Mikucki
+  - Josephine Z. Rapp
+  publisher: Nature Reviews Microbiology
+  date: '2015-09-07'
+  link: https://doi.org/f7xrgs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ncomms7831
+  title: Deep groundwater and potential subsurface habitats beneath an Antarctic dry
+    valley
+  authors:
+  - J. A. Mikucki
+  - E. Auken
+  - S. Tulaczyk
+  - R. A. Virginia
+  - C. Schamper
+  - "K. I. S\xF8rensen"
+  - P. T. Doran
+  - H. Dugan
+  - N. Foley
+  publisher: Nature Communications
+  date: '2015-04-28'
+  link: https://doi.org/35q
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/2014GL062431
+  title: Subsurface imaging reveals a confined aquifer beneath an ice-sealed Antarctic
+    lake
+  authors:
+  - H. A. Dugan
+  - P. T. Doran
+  - S. Tulaczyk
+  - J. A. Mikucki
+  - S. A. Arcone
+  - E. Auken
+  - C. Schamper
+  - R. A. Virginia
+  publisher: Geophysical Research Letters
+  date: '2015-01-12'
+  link: https://doi.org/f6x959
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fmicb.2014.00594
+  title: Microbial sulfur transformations in sediments from Subglacial Lake Whillans
+  authors:
+  - Alicia M. Purcell
+  - Jill A. Mikucki
+  - Amanda M. Achberger
+  - Irina A. Alekhina
+  - Carlo Barbante
+  - Brent C. Christner
+  - Dhritiman Ghosh
+  - Alexander B. Michaud
+  - Andrew C. Mitchell
+  - John C. Priscu
+  - Reed Scherer
+  - Mark L. Skidmore
+  - Trista J. Vick-Majors
+  publisher: Frontiers in Microbiology
+  date: '2014-11-19'
+  link: https://doi.org/gftjhf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1089/ast.2014.1227
+  title: "A New Analysis of Mars \u201CSpecial Regions\u201D: Findings of the Second\
+    \ MEPAG Special Regions Science Analysis Group (SR-SAG2)"
+  authors:
+  - John D. Rummel
+  - David W. Beaty
+  - Melissa A. Jones
+  - Corien Bakermans
+  - Nadine G. Barlow
+  - Penelope J. Boston
+  - Vincent F. Chevrier
+  - Benton C. Clark
+  - Jean-Pierre P. de Vera
+  - Raina V. Gough
+  - John E. Hallsworth
+  - James W. Head
+  - Victoria J. Hipkin
+  - Thomas L. Kieft
+  - Alfred S. McEwen
+  - Michael T. Mellon
+  - Jill A. Mikucki
+  - Wayne L. Nicholson
+  - Christopher R. Omelon
+  - Ronald Peterson
+  - Eric E. Roden
+  - Barbara Sherwood Lollar
+  - Kenneth L. Tanaka
+  - Donna Viola
+  - James J. Wray
+  publisher: Astrobiology
+  date: '2014-11-01'
+  link: https://doi.org/gt568b
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3189/2014AoG65A004
+  title: 'IceMole: a maneuverable probe for clean in situ analysis and sampling of
+    subsurface ice and subglacial aquatic ecosystems'
+  authors:
+  - Bernd Dachwald
+  - Jill Mikucki
+  - Slawek Tulaczyk
+  - Ilya Digel
+  - Clemens Espe
+  - Marco Feldmann
+  - Gero Francke
+  - Julia Kowalski
+  - Changsheng Xu
+  publisher: Annals of Glaciology
+  date: '2014-01-01'
+  link: https://doi.org/gf2z3m
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nature13667
+  title: A microbial ecosystem beneath the West Antarctic ice sheet
+  authors:
+  - Brent C. Christner
+  - John C. Priscu
+  - Amanda M. Achberger
+  - Carlo Barbante
+  - Sasha P. Carter
+  - Knut Christianson
+  - Alexander B. Michaud
+  - Jill A. Mikucki
+  - Andrew C. Mitchell
+  - Mark L. Skidmore
+  - Trista J. Vick-Majors
+  - W. P. Adkins
+  - S. Anandakrishnan
+  - G. Barcheck
+  - L. Beem
+  - A. Behar
+  - M. Beitch
+  - R. Bolsey
+  - C. Branecky
+  - R. Edwards
+  - A. Fisher
+  - H. A. Fricker
+  - N. Foley
+  - B. Guthrie
+  - T. Hodson
+  - H. Horgan
+  - R. Jacobel
+  - S. Kelley
+  - K. D. Mankoff
+  - E. McBryan
+  - R. Powell
+  - A. Purcell
+  - D. Sampson
+  - R. Scherer
+  - J. Sherve
+  - M. Siegfried
+  - S. Tulaczyk
+  publisher: Nature
+  date: '2014-08-20'
+  link: https://doi.org/f6c6wq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.4319/lo.2014.59.3.0811
+  title: Radiocarbon distribution and the effect of legacy in lakes of the McMurdo
+    Dry Valleys, Antarctica
+  authors:
+  - Peter T. Doran
+  - Fabien Kenig
+  - Jennifer Lawson Knoepfle
+  - Jill A. Mikucki
+  - W. Berry Lyons
+  publisher: Limnology and Oceanography
+  date: '2014-04-07'
+  link: https://doi.org/f6c4cj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3189/2014AoG65A009
+  title: 'WISSARD at Subglacial Lake Whillans, West Antarctica: scientific operations
+    and initial observations'
+  authors:
+  - Slawek Tulaczyk
+  - Jill A. Mikucki
+  - Matthew R. Siegfried
+  - John C. Priscu
+  - C. Grace Barcheck
+  - Lucas H. Beem
+  - Alberto Behar
+  - Justin Burnett
+  - Brent C. Christner
+  - Andrew T. Fisher
+  - Helen A. Fricker
+  - Kenneth D. Mankoff
+  - Ross D. Powell
+  - Frank Rack
+  - Daniel Sampson
+  - Reed P. Scherer
+  - Susan Y. Schwartz
+  publisher: Annals of Glaciology
+  date: '2014-01-01'
+  link: https://doi.org/gf2z3r
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/science.1167350
+  title: A Contemporary Microbially Maintained Subglacial Ferrous "Ocean"
+  authors:
+  - Jill A. Mikucki
+  - Ann Pearson
+  - David T. Johnston
+  - Alexandra V. Turchyn
+  - James Farquhar
+  - Daniel P. Schrag
+  - Ariel D. Anbar
+  - John C. Priscu
+  - Peter A. Lee
+  publisher: Science
+  date: '2009-04-17'
+  link: https://doi.org/cc3zks
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1029/2006JG000358
+  title: Metabolic activity and diversity of cryoconites in the Taylor Valley, Antarctica
+  authors:
+  - Christine M. Foreman
+  - Birgit Sattler
+  - Jill A. Mikucki
+  - Dorota L. Porazinska
+  - John C. Priscu
+  publisher: 'Journal of Geophysical Research: Biogeosciences'
+  date: '2007-12-01'
+  link: https://doi.org/b93f8c
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.gca.2007.06.002
+  title: Carbon-isotopic analysis of individual pollen grains from C3 and C4 grasses
+    using a spooling-wire microcombustion interface
+  authors:
+  - David M. Nelson
+  - Feng Sheng Hu
+  - Jill A. Mikucki
+  - Jian Tian
+  - Ann Pearson
+  publisher: Geochimica et Cosmochimica Acta
+  date: '2007-08-01'
+  link: https://doi.org/d2thtf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1128/AEM.01396-06
+  title: Bacterial Diversity Associated with Blood Falls, a Subglacial Outflow from
+    the Taylor Glacier, Antarctica
+  authors:
+  - Jill A. Mikucki
+  - John C. Priscu
+  publisher: Applied and Environmental Microbiology
+  date: '2007-06-15'
+  link: https://doi.org/cg5d2z
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.icarus.2004.10.027
+  title: 'Glacial ice cores: A model system for developing extraterrestrial decontamination
+    protocols'
+  authors:
+  - Brent C. Christner
+  - Jill A. Mikucki
+  - Christine M. Foreman
+  - Jackie Denson
+  - John C. Priscu
+  publisher: Icarus
+  date: '2005-04-01'
+  link: https://doi.org/dg4r3h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10498-004-2259-x
+  title: 'Geomicrobiology of Blood Falls: An Iron-Rich Saline Discharge at the Terminus
+    of the Taylor Glacier, Antarctica'
+  authors:
+  - Jill A. Mikucki
+  - Christine M. Foreman
+  - Birgit Sattler
+  - W. Berry Lyons
+  - John C. Priscu
+  publisher: Aquatic Geochemistry
+  date: '2004-09-01'
+  link: https://doi.org/fjsdz7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/01490450490275884
+  title: Thermodynamic Constraints on Microbially Mediated Processes in Lakes of the
+    McMurdo Dry Valleys, Antarctica
+  authors:
+  - Peter A. Lee
+  - Jill A. Mikucki
+  - Christine M. Foreman
+  - John C. Priscu
+  - Giacomo R. DiTullio
+  - Sarah F. Riseman
+  - Stephen J. Mora
+  - Craig F. Wolf
+  - Laurie Kester
+  publisher: Geomicrobiology Journal
+  date: '2004-04-01'
+  link: https://doi.org/d493dn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1128/AEM.69.6.3311-3316.2003
+  title: "Isolation of a Methanogen from Deep Marine Sediments That Contain Methane\
+    \ Hydrates, and Description of\n            <i>Methanoculleus submarinus</i>\n\
+    \            sp. nov"
+  authors:
+  - Jill A. Mikucki
+  - Yitai Liu
+  - Mark Delwiche
+  - Frederick S. Colwell
+  - David R. Boone
+  publisher: Applied and Environmental Microbiology
+  date: '2003-06-01'
+  link: https://doi.org/czq4pc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/es9805371
+  title: Nitrogen and Phosphorus Imports to the Cape Fear and Neuse River Basins To
+    Support Intensive Livestock Production
+  authors:
+  - Lawrence B. Cahoon
+  - Jill A. Mikucki
+  - Michael A. Mallin
+  publisher: Environmental Science &amp; Technology
+  date: '1998-12-29'
+  link: https://doi.org/c432p2
   plugin: sources.py
   file: sources.yaml
