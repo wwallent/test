@@ -1,5 +1,5 @@
 
-# wwallentDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# The Mikucki Lab
 
 Visit **[wwallent.github.io/test](https://wwallent.github.io/test)** 🚀
 
