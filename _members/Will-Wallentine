@@ -1,20 +1,22 @@
 ---
 name: Will Wallentine
-image: images/photo.jpg
-role: pi
-affiliation: University of Colorado
+image: images/Team/WWallent.png
+role: Graduate Student
+affiliation: University of Tennessee Knoxville
 aliases:
-  - J. Smith
-  - J Smith
+  - W. Wallentine
+  - William Wallentine
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: 
+  orcid:
+  email: wwallent(at)vols(dot)utk(dot)edu
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Will Wallentine is a PhD student in the Mikucki lab, where he researches life in extreme environments. 
+He’s broadly interested in adaptation mechanisms in cold and chaotropic environments and how that knowledge can be applied to the search for life on Mars. 
+Currently, his research is focused on exploring membrane lipid modifications in bacteria isolated from a cold and salty environment called Don Juan Pond (DJP). 
+DJP is nearly saturated with CaCl2, a chaotropic salt which excels at destabilizing membranes. However, when some bacteria are grown in cold temperatures, 
+they are able to tolerate higher concentrations of CaCl2 and simultaneously grow in colder temperatures with more CaCl2 exposure. 
+This synergism may have enabled life to thrive on early Mars, which is understood to have had conditions similar to those found at DJP.
+By studying how bacteria adapt to DJP-like conditions and what kind of lipids they produce, we can build a better understanding of what 
+life might have been like on Mars and how to look for evidence of it.
