@@ -637,10 +637,8 @@
 <div class="portrait-wrapper">
   <a class="portrait" data-style="" aria-label="Will Wallentine">
     
-      <i class="icon fa-solid fa-microscope"></i>
-    
 
-    <img src="/test/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/test/images/fallback.svg'; this.onerror = null;" />
+    <img src="/test/images/Team/WWallent.png" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/test/images/fallback.svg'; this.onerror = null;" />
 
     
       <span class="portrait-name">
@@ -649,14 +647,10 @@
     
 
     
-      <span class="portrait-description">
-        Principal Investigator
-      </span>
-    
 
     
       <span class="portrait-affiliation">
-        University of Colorado
+        University of Tennessee Knoxville
       </span>
     
   </a>
@@ -671,7 +665,7 @@
 
 
   <div class="button-wrapper">
-    <a class="button" href="https://janesmith.com" data-tooltip="Home page" data-style="bare" aria-label="Home page">
+    <a class="button" href="/test" data-tooltip="Home page" data-style="bare" aria-label="Home page">
       <i class="icon fa-solid fa-house-user"></i>
       
         <span>Home Page</span>
@@ -688,10 +682,27 @@
 
 
   <div class="button-wrapper">
-    <a class="button" href="https://orcid.org/0000-0001-8713-9213" data-tooltip="ORCID" data-style="bare" aria-label="ORCID">
+    <a class="button" href="/test" data-tooltip="ORCID" data-style="bare" aria-label="ORCID">
       <i class="icon fa-brands fa-orcid"></i>
       
         <span>ORCID</span>
+      
+    </a>
+  </div>
+
+<br />
+  
+    
+    
+    
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="mailto:wwallent(at)vols(dot)utk(dot)edu" data-tooltip="Email" data-style="bare" aria-label="Email">
+      <i class="icon fa-solid fa-envelope"></i>
+      
+        <span>Email</span>
       
     </a>
   </div>
@@ -704,13 +715,14 @@
 </div>
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Will Wallentine is a PhD student in the Mikucki lab, where he researches life in extreme environments. 
+He’s broadly interested in adaptation mechanisms in cold and chaotropic environments and how that knowledge can be applied to the search for life on Mars. 
+Currently, his research is focused on exploring membrane lipid modifications in bacteria isolated from a cold and salty environment called Don Juan Pond (DJP). 
+DJP is nearly saturated with CaCl2, a chaotropic salt which excels at destabilizing membranes. However, when some bacteria are grown in cold temperatures, 
+they are able to tolerate higher concentrations of CaCl2 and simultaneously grow in colder temperatures with more CaCl2 exposure. 
+This synergism may have enabled life to thrive on early Mars, which is understood to have had conditions similar to those found at DJP.
+By studying how bacteria adapt to DJP-like conditions and what kind of lipids they produce, we can build a better understanding of what 
+life might have been like on Mars and how to look for evidence of it.
 
 
 
@@ -718,7 +730,7 @@ Magna eget est lorem ipsum.
 
 
 <p class="center">
-  <a href="/test/research/?search=%22J.%20Smith%22%20%22J%20Smith%22%20">
+  <a href="/test/research/?search=%22W.%20Wallentine%22%20%22William%20Wallentine%22%20">
     Search for Will Wallentine's papers on the Research page
   </a>
 </p>
