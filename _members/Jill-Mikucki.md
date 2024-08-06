@@ -1,14 +1,14 @@
 ---
-name: Jane Smith
+name: Jill Mikucki
 image: images/photo.jpg
 role: pi
-affiliation: University of Colorado
+affiliation: University of Tennessee
 aliases:
   - J. Smith
   - J Smith
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: (https://en.wikipedia.org/wiki/Jill_Mikucki)
+  orcid: 0000-0002-4431-7961
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
