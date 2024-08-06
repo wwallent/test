@@ -27,6 +27,8 @@
 - id: doi:10.3389/fmicb.2023.1156033
 - id: doi:10.5194/tc-16-4977-2022
 - id: doi:10.1073/pnas.2212800119
+  group: 
+  - featured
 - id: doi:10.1016/j.coldregions.2022.103578
 - id: doi:10.3389/fspas.2022.843174
 - id: doi:10.1038/s43017-021-00246-9
