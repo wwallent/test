@@ -49,3 +49,13 @@ layout: default
   </a>
 </p>
 -->
+
+<!-- Lab Alumni Section -->
+<h2 class="center">Lab Alumni</h2>
+<ul class="center">
+  {% for member in site.members %}
+    {% if member.group == "alum" %}
+      <li>{{ member.name }} - {{ member.position }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
