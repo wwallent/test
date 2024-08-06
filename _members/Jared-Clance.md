@@ -5,7 +5,7 @@ role: phd
 affiliation: University of Tennessee-Knoxville
 aliases:
   - J. Clance
-  - J Shaffer
+  - J Clance
 links:
   home-page: 
   orcid: 
