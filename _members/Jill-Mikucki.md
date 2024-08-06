@@ -7,7 +7,7 @@ aliases:
   - J. Smith
   - J Smith
 links:
-  home-page: (https://en.wikipedia.org/wiki/Jill_Mikucki)
+  home-page: https://en.wikipedia.org/wiki/Jill_Mikucki
   orcid: 0000-0002-4431-7961
 ---
 
