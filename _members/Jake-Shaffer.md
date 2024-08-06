@@ -1,14 +1,14 @@
 ---
-name: Jane Smith
+name: Jake Shaffer
 image: images/photo.jpg
-role: pi
-affiliation: University of Colorado
+role: phd
+affiliation: University of Tennessee-Knoxville
 aliases:
-  - J. Smith
-  - J Smith
+  - J. Shaffer
+  - J Shaffer
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: 
+  orcid:
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
