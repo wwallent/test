@@ -2,10 +2,10 @@
 name: Jill Mikucki
 image: images/photo.jpg
 role: pi
-affiliation: University of Tennessee
+affiliation: University of Tennessee-Knoxville
 aliases:
-  - J. Smith
-  - J Smith
+  - J. Mikucki
+  - J Mikucki
 links:
   home-page: https://en.wikipedia.org/wiki/Jill_Mikucki
   orcid: 0000-0002-4431-7961
