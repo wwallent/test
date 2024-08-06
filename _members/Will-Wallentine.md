@@ -1,7 +1,7 @@
 ---
 name: Will Wallentine
 image: images/Team/WWallent.png
-role: Graduate Student
+role: phd
 affiliation: University of Tennessee Knoxville
 aliases:
   - W. Wallentine
