@@ -11,10 +11,6 @@ links:
   orcid: 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Olivia Vinnes graduated from Cornell College with a B.A. in biology and physics in 2023. 
+She is currently a first year PhD student in the Microbiology department at the University of Tennessee, 
+where she studies membrane composition and culturing using targeted approaches.  
