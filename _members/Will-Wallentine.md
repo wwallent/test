@@ -1,9 +1,14 @@
 ---
 name: Will Wallentine
+position: PhD Student
 image: images/Team/WWallent.png
 role: phd
 education:
   - "Wesleyan University: BA in Biology, Earth & Environmental Sciences, minor in Planetary Science"
+brief-position: Don Juan Pond, Chaotropicity, lipid membranes
+brief-desc: PhD Student
+redirect from:
+  - author/will-wallentine    
 affiliation: University of Tennessee-Knoxville
 aliases:
   - W. Wallentine
@@ -11,7 +16,7 @@ aliases:
 links:
   home-page: 
   orcid:
-  email: wwallent(at)vols(dot)utk(dot)edu
+  email: wwallent@vols.utk.edu
 ---
 
 Will Wallentine is a PhD student in the Mikucki lab, where he researches life in extreme environments. 
