@@ -12,13 +12,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Highlighted
+## Highlighted Publications
 
 {% include list.html data="citations" filters="group: featured" hideyear="true" component="citation" style="rich" %}
 
 {% include section.html %}
 
-## All
+## All Publications
 
 {% include search-box.html %}
 
