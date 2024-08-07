@@ -16,6 +16,8 @@ aliases:
 links:
   home-page: https://en.wikipedia.org/wiki/Jill_Mikucki
   orcid: 0000-0002-4431-7961
+redirect-from:
+ - author/Jill-Mikucki/
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
