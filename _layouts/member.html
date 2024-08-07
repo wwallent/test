@@ -42,6 +42,17 @@ layout: default
   blog/?search={{ page.name }}
 {%- endcapture %}
 
+<!-- Education -->
+{% if page.education %}
+<div>
+  <h3>Education</h3>
+  <ul>
+      {% for education in page.education %}
+      <li>{{ education }}</li>
+      {% endfor %}
+  </ul>
+</div>
+{% endif %}
 <!--
 <p class="center">
   <a href="{{ search | relative_url }}">
