@@ -1,7 +1,7 @@
 ---
 name: Will Wallentine
 position: PhD Student
-image: images/Team/WWallent.png
+image: images/Team/WWallent.jpg
 role: phd
 education:
   - "Wesleyan University: BA in Biology, Earth & Environmental Sciences, minor in Planetary Science"
