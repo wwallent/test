@@ -12,6 +12,8 @@
   publisher: HardwareX
   date: '2023-12-01'
   link: https://doi.org/gt567r
+  group:
+  - featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1089/ast.2021.0102
@@ -53,6 +55,8 @@
   publisher: Astrobiology
   date: '2023-11-01'
   link: https://doi.org/gt567m
+  group:
+  - featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1029/2022JF006696
@@ -87,6 +91,8 @@
   publisher: Frontiers in Microbiology
   date: '2023-05-12'
   link: https://doi.org/gt567t
+  group:
+  - featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.5194/tc-16-4977-2022
