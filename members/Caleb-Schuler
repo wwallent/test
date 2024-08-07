@@ -730,6 +730,19 @@ lorem ipsum
 
 
 
+<!-- Education -->
+
+<div>
+  <h3>Education</h3>
+  <ul>
+      
+      <li>B.S., University of Cincinnati, 2017</li>
+      
+      <li>Ph.D., University of Tennessee-Knoxville, 2022</li>
+      
+  </ul>
+</div>
+
 <!--
 <p class="center">
   <a href="/test/blog/?search=Caleb%20Schuler">
