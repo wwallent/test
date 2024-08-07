@@ -21,10 +21,16 @@
 #- id: doi:10.7554/eLife.32822
 #  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp	
 - id: doi:10.1016/j.ohx.2023.e00490
+  group: 
+    - featured
 - id: doi:10.1089/ast.2021.0102
 - id: doi:10.1089/ast.2021.0106
+  group: 
+    - featured
 - id: doi:10.1029/2022JF006696
 - id: doi:10.3389/fmicb.2023.1156033
+  group: 
+    - featured
 - id: doi:10.5194/tc-16-4977-2022
 - id: doi:10.1073/pnas.2212800119
   group: 
