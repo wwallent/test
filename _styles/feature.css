@@ -2,14 +2,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 40px;
-  margin: 40px 0;
+  gap: 10px;
+  margin: 10px 0;
 }
 
 .feature-image {
   flex-shrink: 0;
   width: 40%;
-  aspect-ratio: 3/2;
   border-radius: var(--rounded);
   overflow: hidden;
   box-shadow: var(--shadow);
@@ -36,13 +35,13 @@
   flex-direction: row-reverse;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 700px) {
   .feature {
     flex-direction: column !important;
   }
   .feature-image {
     width: 100%;
-    max-width: 400px;
+    max-width: 350px;
   }
 }
 
