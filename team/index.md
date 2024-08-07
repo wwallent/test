@@ -34,8 +34,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include grid.html style="square" content=content %}
 
-{% include section.html %}
-
 # {% include icon.html icon="fa-solid fa-users" %}Alumni
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
