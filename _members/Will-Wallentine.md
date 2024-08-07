@@ -2,6 +2,8 @@
 name: Will Wallentine
 image: images/Team/WWallent.png
 role: phd
+education:
+  - "Wesleyan University: BA in Biology, Earth & Environmental Sciences, minor in Planetary Science
 affiliation: University of Tennessee-Knoxville
 aliases:
   - W. Wallentine
