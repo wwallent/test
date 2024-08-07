@@ -45,14 +45,15 @@ layout: default
 <!-- Education -->
 {% if page.education %}
 <div>
-  <h3>Education</h3>
-  <ul>
+  <h3 style="margin-bottom: 0.5rem;">Education</h3>
+  <ul style="margin-top: 0; padding-left: 1.5rem;">
       {% for education in page.education %}
-      <li>{{ education }}</li>
+      <li style="margin-bottom: 0.25rem;">{{ education }}</li>
       {% endfor %}
   </ul>
 </div>
 {% endif %}
+
 <!--
 <p class="center">
   <a href="{{ search | relative_url }}">
