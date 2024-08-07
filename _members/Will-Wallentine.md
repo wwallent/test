@@ -4,7 +4,7 @@ position: PhD Student
 image: images/Team/WWallent.jpg
 role: phd
 education:
-  - "Wesleyan University: BA in Biology, Earth & Environmental Sciences, minor in Planetary Science"
+  - "B.A., 2023, Wesleyan University"
 brief-position: Don Juan Pond, Chaotropicity, lipid membranes
 brief-desc: PhD Student
 redirect from:
