@@ -13,6 +13,7 @@ education:
 aliases:
   - J. Mikucki
   - J Mikucki
+  - Jill Mikucki
 links:
   home-page: https://en.wikipedia.org/wiki/Jill_Mikucki
   orcid: 0000-0002-4431-7961
