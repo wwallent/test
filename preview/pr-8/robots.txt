@@ -1,0 +1,1 @@
+Sitemap: /test/preview/pr-8/sitemap.xml
