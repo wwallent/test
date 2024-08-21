@@ -1,9 +1,9 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Ocean Worlds Reconnaissance and Characterization of Astrobiological Analogs
+  subtitle: ORCAA
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/ORCAAMeltProbe.jpeg
+  link: https://photojournal.jpl.nasa.gov/catalog/PIA26345
+  description: Here we are testing melt probe technology on the Juneau Ice field as an analog to Europa and Enceladus
   repo: greenelab/lab-website-template
   tags:
     - resource
