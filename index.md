@@ -9,7 +9,7 @@ The Mikucki lab studies the interactions between microbes and their environment 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We study microbial communities in extreme environments as analogs for life on other planets. 
 
 {%
   include button.html
@@ -32,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our work takes us to many challenging environments, including hypersaline calcium chloride brines in Antarctica to toxic glacial fumaroles in the Canadian Arctic
 
 {%
   include button.html
@@ -57,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team is passionate, empathetic, and intellectually motivated by exploration and the prospects of life in the universe
 
 {%
   include button.html
