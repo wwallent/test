@@ -9,12 +9,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@wwallentDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
+  email: jmikucki@utk.edu
+  orcid: 0000-0002-4431-7961
   google-scholar: ETJoidYAAAAJ
-  github: wwallentDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: wwallentDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: wwallentDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  #github: wwallentDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  twitter: https://x.com/IceMicrobes
+  #youtube: wwallentDESCRIPTION=An engaging 1-3 sentence description of your lab.
 
 ### jekyll settings
 
