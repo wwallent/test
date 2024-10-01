@@ -9,14 +9,10 @@ footer-dark: true
 ---
 
 # Photo Gallery
-{% capture content %}
-  ![](/images/PhotoGallery/20220918_111157.jpg)
+Our field sites are uniquely photogenic...enjoy!
+{% include section.html %}
 
-  ![](/images/PhotoGallery/20220918_120013.jpg)
+{% include grid.html content=content data="photog" filters="group:featured" %} 
+{% include section.html %}
 
-  ![](/images/PhotoGallery/20220918_132209.jpg)
 
-  ![](/images/PhotoGallery/20220918_134506.jpg)
-{% endcapture %}
-
-{% include grid.html content=content %}
