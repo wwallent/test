@@ -12,7 +12,10 @@ footer-dark: true
 Our field sites are uniquely photogenic...enjoy!
 {% include section.html %}
 
-{% include grid.html items=site.data.photog %} 
-{% include section.html %}
+{% assign images = site.static_files | where: "path", "images/PhotoGallery/" %}
+{% for image in images %}
+  ![]({{ image.path }})
+{% endfor %}
+
 
 
