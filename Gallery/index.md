@@ -1,12 +1,12 @@
+---
 title: Photo Gallery
-description: Photos from the field
 nav:
   order: 4
-  tooltip: Photos, people
-header: images/header-for-this-page.jpg
-footer: images/footer-for-this-page.jpg
+  tooltip: Photos from the field
+
 header-dark: false
 footer-dark: false
+---
 
 {% capture content %}
   ![](/images/PhotoGallery/20220918_111157.jpg)
