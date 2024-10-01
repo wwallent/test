@@ -2,7 +2,7 @@
   subtitle: ORCAA
   group: featured
   image: images/ORCAAMeltProbe.jpeg
-  link: https://wwallent.github.io/test/projects/#Ocean-Worlds-Reconnaissance-and-Characterization-of-Astrobiological-Analogs
+  link: https://wwallent.github.io/test/projects/##Ocean-Worlds-Reconnaissance-and-Characterization-of-Astrobiological-Analogs
   description: Here we are testing melt probe technology on the Juneau Ice field as an analog to Europa and Enceladus
   repo: greenelab/lab-website-template
   tags:
@@ -12,7 +12,7 @@
   subtitle: Glaciovolcanic fumarole
   group: featured
   image: images/photo.jpg
-  link: https://wwallent.github.io/test/projects/#Mt.-Meager
+  link: https://wwallent.github.io/test/projects/##Mt.-Meager
   description: Mount Meager, a glacial volcanic complex within the Garibaldi Volcanic Belt in the Coast Mountains of British Columbia, Canada, offers a natural laboratory for studying microbial diversity in extreme environments
   repo: greenelab/lab-website-template
   tags:
