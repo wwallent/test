@@ -25,6 +25,6 @@ Please don't share without permission...
 {% endcapture %}
 
 {% include grid.html content=content %}
-
+{% include section.html %}
 
 
