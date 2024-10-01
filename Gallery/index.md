@@ -13,6 +13,8 @@ Please don't share without permission...
 {% include section.html %}
 
 {% capture content %}
+  ![](/images/Meager_gassy.png)
+
   ![](/images/PhotoGallery/helicoptr.png)
   
   ![](/images/PhotoGallery/20220918_111157.jpg)
