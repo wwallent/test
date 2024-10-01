@@ -21,10 +21,4 @@ redirect-from:
  - author/Jill-Mikucki/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Jill is a Professor of Microbiology at the University of Tennessee, Knoxville. She is a polar microbial ecologist who studies cryosphere ecosystems with a focus on subglacial environments. She is particularly motivated by multidisciplinary collaborations for the clean access and exploration of subglacial environments. Her research interests include the ecophysiology of microbial extremophiles, microbial interactions and microbial community structure and function.
