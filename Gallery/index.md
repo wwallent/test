@@ -12,7 +12,7 @@ footer-dark: true
 Our field sites are uniquely photogenic...enjoy!
 {% include section.html %}
 
-{% include grid.html content=content data="photog" filters="group:featured" %} 
+{% include grid.html items=site.data.photog %} 
 {% include section.html %}
 
 
