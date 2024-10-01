@@ -4,16 +4,12 @@ image: images/Team/JMikucki.jpg
 role: pi
 affiliation: University of Tennessee-Knoxville
 brief-desc: Professor
-education: 
-  - "B.A., 1996, University of North Carolina, Wilmington"
-  - "M.S., 2001, Portland State University"
-  - "Ph.D., 2005, Montana State University"
-  - "Postdoctoral Fellow, 2006-2007, Harvard University"
-  - "Postdoctoral Fellow, 2008, Dartmouth College"
 aliases:
   - J. Mikucki
   - J Mikucki
   - Jill Mikucki
+  - Jill A. Mikucki
+  - J.A. Mikucki
 links:
   home-page: https://en.wikipedia.org/wiki/Jill_Mikucki
   orcid: 0000-0002-4431-7961
