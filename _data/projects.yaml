@@ -8,19 +8,20 @@
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Mt. Meager
+  subtitle: Glaciovolcanic fumarole
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Mount Meager, a glacial volcanic complex within the Garibaldi Volcanic Belt in the Coast Mountains of British Columbia, Canada, offers a natural laboratory for studying microbial diversity in extreme environments
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: Don Juan Pond
+  subtitle: Hypersaline brines
+  group: featured
+  image: images/DJP_17Nov19sm (2).jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
@@ -28,9 +29,10 @@
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: Blood Falls
+  subtitle: Hypersaline subsurface brines
   image: images/photo.jpg
+  group: featured
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
