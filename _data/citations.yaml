@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3389/fgeoc.2024.1410338
+  title: Biogeochemistry of the rare sulfidic glaciovolcanic cave system on Mount
+    Meager, British Columbia, Canada
+  authors:
+  - Jared J. Clance
+  - Jacob M. C. Shaffer
+  - Morgan L. Cable
+  - Christian Stenner
+  - Glyn Williams-Jones
+  - Anna Szynkiewicz
+  - Michael Paton
+  - Kathleen Graham
+  - Olivia Vinnes
+  - Jill A. Mikucki
+  publisher: Frontiers in Geochemistry
+  date: '2024-08-21'
+  link: https://doi.org/g6jrgt
+  image: /images/Meager_gassy.png
+  group:
+  - featured
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ohx.2023.e00490
   title: 'OpenASAP: An affordable 3D printed atmospheric solids analysis probe (ASAP)
     mass spectrometry system for direct analysis of solid and liquid samples'
