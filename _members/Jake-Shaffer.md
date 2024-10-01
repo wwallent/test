@@ -6,6 +6,8 @@ affiliation: University of Tennessee-Knoxville
 aliases:
   - J. Shaffer
   - J Shaffer
+  - Jacob M. C. Shaffer
+  - Jacob Shaffer
 links:
   home-page: 
   orcid:
