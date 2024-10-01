@@ -9,7 +9,7 @@ footer-dark: true
 ---
 
 # Photo Gallery
-Our field sites are uniquely photogenic...enjoy!
+Please don't share without permission...
 {% include section.html %}
 
 {% capture content %}
