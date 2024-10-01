@@ -1,7 +1,3 @@
 <div class="grid" data-style="{{ include.style }}">
-  {% for item in include.items %}
-    <div class="grid-item">
-      <img src="{{ item.url }}" alt="Photo">
-    </div>
-  {% endfor %}
+  {{ include.content | markdownify }}
 </div>
