@@ -12,10 +12,19 @@ footer-dark: true
 Our field sites are uniquely photogenic...enjoy!
 {% include section.html %}
 
-{% assign images = site.static_files | where: "path", "images/PhotoGallery/" %}
-{% for image in images %}
-  ![]({{ image.path }})
-{% endfor %}
+{% capture content %}
+  ![](/images/PhotoGallery/helicoptr.png)
+  
+  ![](/images/PhotoGallery/20220918_111157.jpg)
+
+  ![](/images/PhotoGallery/20220918_120013.jpg)
+
+  ![](/images/PhotoGallery/20220918_132209.jpg)
+
+  ![](/images/PhotoGallery/20220918_134506.jpg)
+{% endcapture %}
+
+{% include grid.html content=content %}
 
 
 
