@@ -4,8 +4,8 @@ nav:
   order: 4
   tooltip: Photos from the field
 
-header-dark: false
-footer-dark: false
+header-dark: true
+footer-dark: true
 ---
 
 # Photo Gallery
