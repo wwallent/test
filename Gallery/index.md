@@ -8,6 +8,7 @@ header-dark: false
 footer-dark: false
 ---
 
+# Photo Gallery
 {% capture content %}
   ![](/images/PhotoGallery/20220918_111157.jpg)
 
