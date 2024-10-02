@@ -13,6 +13,9 @@ Please don't share without permission...
 {% include section.html %}
 
 {% capture content %}
+{% include feature.html image="images/Meager_gassy.png" text=text %}
+
+
   ![](/images/Meager_gassy.png)
 
   ![](/images/PhotoGallery/helicoptr.png)
