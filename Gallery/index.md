@@ -13,21 +13,13 @@ Please don't share without permission...
 {% include section.html %}
 
 {% capture content %}
-{% include figure.html image="images/photo.jpg" caption="Lorem ipsum" %}
+{% include figure.html image="images/Meager_gassy.png" caption="Lorem ipsum" %}
+{% include figure.html image="images/PhotoGallery/helicoptr.png" caption="Lorem ipsum" %}
+{% include figure.html image="images/PhotoGallery/20220918_111157.jpg" caption="Lorem ipsum" %}
+{% include figure.html image="images/PhotoGallery/20220918_120013.jpg" caption="Lorem ipsum" %}
+{% include figure.html image="images/PhotoGallery/20220918_132209.jpg" caption="Lorem ipsum" %}
+{% include figure.html image="images/PhotoGallery/20220918_134506.jpg" caption="Lorem ipsum" %}
 
-
-
-  ![](/images/Meager_gassy.png)
-
-  ![](/images/PhotoGallery/helicoptr.png)
-  
-  ![](/images/PhotoGallery/20220918_111157.jpg)
-
-  ![](/images/PhotoGallery/20220918_120013.jpg)
-
-  ![](/images/PhotoGallery/20220918_132209.jpg)
-
-  ![](/images/PhotoGallery/20220918_134506.jpg)
 {% endcapture %}
 
 {% include grid.html content=content %}
