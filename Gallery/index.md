@@ -13,7 +13,8 @@ Please don't share without permission...
 {% include section.html %}
 
 {% capture content %}
-{% include feature.html image="images/Meager_gassy.png" text=text %}
+{% include figure.html image="images/photo.jpg" caption="Lorem ipsum" %}
+
 
 
   ![](/images/Meager_gassy.png)
