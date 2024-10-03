@@ -7,27 +7,25 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+If you're interested in joining our lab as a graduate student, check out the UTK Microbiology website for information about the grad program and application process. 
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="jmikucki@utk.edu"
+  link="jmikucki@utk.edu"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(865)974-4301"
+  link="+1-865-974-4301"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/1414+Circle+Dr,+Knoxville,+TN+37916/@35.9573098,-83.9273089,715m/data=!3m2!1e3!4b1!4m6!3m5!1s0x885c17e77f21d151:0x3524772dc470094!8m2!3d35.9573098!4d-83.924734!16s%2Fg%2F11fflx6j9f?entry=ttu&g_ep=EgoyMDI0MTAwMS4wIKXMDSoASAFQAw%3D%3D"
 %}
 
 {% include section.html %}
@@ -37,7 +35,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="UTK Microbiology Department"
+  link="https://micro.utk.edu"
 %}
 
 {% endcapture %}
@@ -47,7 +46,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="UTK Microbiology Grad Program Info"
+  link="https://micro.utk.edu/graduate/"
 %}
 
 {% endcapture %}
