@@ -14,7 +14,6 @@ Please don't share without permission...
 
 {% capture content %}
 {% include figure.html image="images/Meager_gassy.png" caption="Lorem ipsum" %}
-{% include figure.html image="images/PhotoGallery/helicoptr.png" caption="Lorem ipsum" %}
 {% include figure.html image="images/PhotoGallery/20220918_111157.jpg" caption="Lorem ipsum" %}
 {% include figure.html image="images/PhotoGallery/20220918_120013.jpg" caption="Lorem ipsum" %}
 {% include figure.html image="images/PhotoGallery/20220918_132209.jpg" caption="Lorem ipsum" %}
