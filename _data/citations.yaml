@@ -115,6 +115,7 @@
   link: https://doi.org/gt567t
   group:
   - featured
+  image: /images/Massilia.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.5194/tc-16-4977-2022
