@@ -11,7 +11,7 @@ aliases:
   - Jill A. Mikucki
   - J.A. Mikucki
 links:
-  home-page: https://en.wikipedia.org/wiki/Jill_Mikucki
+  home-page: https://micro.utk.edu/faculty/jill-mikucki/
   orcid: 0000-0002-4431-7961
 redirect-from:
  - author/Jill-Mikucki/
