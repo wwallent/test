@@ -14,7 +14,6 @@ aliases:
   - W. Wallentine
   - William Wallentine
 links:
-  home-page: 
   orcid:
   email: wwallent@vols.utk.edu
 ---
