@@ -9,7 +9,7 @@ nav:
 
 Our currently funded projects take us to field sites across the world. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-{% include tags.html tags="publication, resource, website" %}
+
 
 {% include search-info.html %}
 
