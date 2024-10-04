@@ -1,12 +1,12 @@
-- title: Ocean Worlds Reconnaissance and Characterization of Astrobiological Analogs
-  subtitle: ORCAA
+- title: Subice exploration
+  subtitle: Analogs for icy moons
   group: featured
   image: images/ORCAAMeltProbe.jpeg
-  link: https://wwallent.github.io/test/projects/##Ocean-Worlds-Reconnaissance-and-Characterization-of-Astrobiological-Analogs
+  link: https://wwallent.github.io/test/projects/#Subice-exploration
   description: Here we are testing melt probe technology on the Juneau Ice field as an analog to Europa and Enceladus
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  repo: 
+ 
+  
 
 - title: Mt. Meager
   subtitle: Glaciovolcanic fumarole
