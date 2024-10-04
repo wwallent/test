@@ -15,11 +15,14 @@ Our currently funded projects take us to field sites across the world. Ut enim a
 
 {% include section.html %}
 
-## Featured
+# Featured
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
+
+# Subice Exploration
+Icy moons, such as Europa and Enceladus, are believed to host vast oceans capped by a thick layer of ice and are prime astrobiological targets for future exploration. Many mission concepts to these worlds involve a probe that can melt through the ice to sample the subsurface ocean for evidence of life. Before any mission can be launched, the probes must be rigorously field tested.
 
 ## Ocean Worlds Reconnaissance and Characterization of Astrobiological Analogs
 
@@ -44,4 +47,52 @@ Mount Meager, a glacial volcanic complex in  the Coast Mountains of British Colu
   text=text
 %}
 
+# Brines
+text about how cool brines are
 
+## Don Juan Pond
+{% capture text %}
+Don Juan Pond Don Juan Pond 
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/20220918_142315.jpg"
+  text=text
+%}
+
+## Blood Falls
+{% capture text %}
+Blood Falls Blood Falls
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/20220918_142315.jpg"
+  text=text
+%}
+
+# Microbial Extremophiles
+text about how cool extremophiles are
+
+## Cryophiles
+{% capture text %}
+cryocryocryo
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/20220918_142315.jpg"
+  text=text
+%}
+
+## Halophiles
+{% capture text %}
+HaloHaloHalo
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/20220918_142315.jpg"
+  text=text
+%}
