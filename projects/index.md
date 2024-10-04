@@ -36,11 +36,6 @@ Ocean Worlds Reconnaissance and Characterization of Astrobiological Analogs (ORC
   text=text
 %}
 
-{%
-  include button.html
-  flip=true
-  style="bare"
-%}
 
 ## Mt. Meager
 {% capture text %}
@@ -58,12 +53,12 @@ text about how cool brines are
 
 ## Don Juan Pond
 {% capture text %}
-Don Juan Pond Don Juan Pond 
+Life as we know it requires liquid water; beyond Earth, liquid water is likely present as hypersaline brines. Using bacteria isolated from hypersaline Antarctic environments like Don Juan Pond and Blood Falls, we are interrogating specific adaptations in cold- and salt-tolerant organisms that could allow for survival on other planets.
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/20220918_142315.jpg"
+  image="images/DJP_17Nov19sm (2).jpg"
   text=text
 %}
 
@@ -79,7 +74,7 @@ Blood Falls Blood Falls
 %}
 
 # Microbial Extremophiles
-text about how cool extremophiles are
+Microbial life can respond to environmental perturbation through the production of specialized molecules (secondary metabolites). These compounds can protect cells from environmental stressors (e.g., pigments reducing UV stress), or mediate interactions with other community members (e.g., antibiotics). We investigate how environmental stressors impact the production of these compounds to understand the impacts of climate change on Antarctic communities.
 
 ## Cryophiles
 {% capture text %}
@@ -88,7 +83,7 @@ cryocryocryo
 
 {%
   include feature.html
-  image="images/20220918_142315.jpg"
+  image="images/massilia.png"
   text=text
 %}
 
@@ -99,6 +94,6 @@ HaloHaloHalo
 
 {%
   include feature.html
-  image="images/20220918_142315.jpg"
+  image="images/massilia.png"
   text=text
 %}
