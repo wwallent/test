@@ -34,7 +34,7 @@ If you're interested in joining our lab as a graduate student, check out the UTK
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/Mossman-2-4050572619-2.jpg"
   caption="UTK Microbiology Department"
   link="https://micro.utk.edu"
 %}
@@ -45,9 +45,9 @@ If you're interested in joining our lab as a graduate student, check out the UTK
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="UTK Microbiology Grad Program Info"
-  link="https://micro.utk.edu/graduate/"
+  image="images/cec319d4410ef4e4a7d113dfbbcbfa7f-1363889473.jpg"
+  caption="UTK College of Arts and Sciences"
+  link="https://artsci.utk.edu/academics/departments/"
 %}
 
 {% endcapture %}
