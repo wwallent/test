@@ -6,6 +6,7 @@ description: The Mikucki lab studies the interactions between microbes and their
 header: images/PXL_20220918_231125205.jpg
 footer: images/PXL_20220918_231125205.jpg
 proofer: false
+baseurl: "/test"
 
 # site social media and other links
 links:
