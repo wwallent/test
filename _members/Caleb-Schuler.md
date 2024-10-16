@@ -1,6 +1,6 @@
 ---
 name: Caleb Schuler
-position: 
+position: PhD
 image: 
 role: alumni
 education:
