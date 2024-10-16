@@ -1,5 +1,5 @@
 ---
-name: Ingemar "Ingo" Ohlsson
+name: Ingemar Ohlsson
 position: Postodc
 image: 
 role: alumni
