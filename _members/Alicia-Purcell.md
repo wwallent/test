@@ -6,7 +6,7 @@ role: alumni
 education:
   - "M.S., University of Tennessee-Knoxville, 2011"
   - "Ph.D., Northern Arizona University, 2021"
-brief-position: Charles River Laboratories
+brief-position: Currently a postdoc at Texas Tech University
 brief-desc: 
 redirect from:
   - author/Alicia-purcell 
