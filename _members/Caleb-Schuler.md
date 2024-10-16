@@ -18,7 +18,8 @@ aliases:
 links:
   home-page: 
   orcid:
-  email: 
+  email:
+  linkedin: https://www.linkedin.com/in/caleb-schuler-3b2928103/
 ---
 
 lorem ipsum
