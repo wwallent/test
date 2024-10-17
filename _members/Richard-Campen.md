@@ -2,7 +2,8 @@
 name: Richard Campen
 position: Postdoc
 image: 
-role: alumni
+role: postdoc
+alumni: true
 education:
   - "Ph.D., Victoria University of Wellington"
 brief-position: Senior Developer and Technical Lead at Kraken Technologies
