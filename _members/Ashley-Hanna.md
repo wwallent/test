@@ -2,6 +2,7 @@
 name: Ashley Hanna
 image: images/photo.jpg
 role: phd
+alumni: false
 affiliation: University of Maryland
 aliases:
   - A. Hanna
