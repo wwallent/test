@@ -3,6 +3,7 @@ name: Will Wallentine
 position: PhD Student
 image: images/Team/WWallent.jpg
 role: phd
+alumni: false
 education:
   - "B.A., 2023, Wesleyan University"
 brief-position: Don Juan Pond, Chaotropicity, lipid membranes
