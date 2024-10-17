@@ -2,7 +2,9 @@
 name: Michelle-Chua
 position: 
 image: 
-role: alumni
+role: 
+alumni: true
+
 education:
   - "M.S.,  Georgia State University, 2011"
   - "Ph.D., University of Tennessee-Knoxville, 2018"
