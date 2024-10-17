@@ -1,7 +1,7 @@
 ---
 name: Michelle-Chua
 position: 
-image: 
+image: images/Team/Michelle Chua.jpeg
 role: 
 alumni: true
 
