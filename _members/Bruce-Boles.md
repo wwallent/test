@@ -2,7 +2,8 @@
 name: Bruce Boles
 position: Post-bac
 image: 
-role: alumni
+role: undergrad
+alumni: true
 education:
   - "B.S., University of Tennessee-Knoxville, 2020"
 brief-position: Currently a PhD student at Montana State University-Bozeman
