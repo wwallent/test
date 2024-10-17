@@ -3,7 +3,7 @@ name: Walker Perrin
 position: Undergraduate
 image: images/Team/WPerrin.png
 role: undergrad
-almuni: false
+alumni: false
 redirect from:
   - author/walker-perrin    
 affiliation: University of Tennessee-Knoxville
