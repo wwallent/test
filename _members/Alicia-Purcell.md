@@ -11,7 +11,7 @@ brief-position: Currently a postdoc at Texas Tech University
 brief-desc: 
 redirect from:
   - author/Alicia-purcell 
-affiliation: University of Tennessee-Knoxville
+affiliation: Postdoc at Texas Tech University
 aliases:
   - A. Purcell
   - A Purcell
