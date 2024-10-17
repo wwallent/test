@@ -14,7 +14,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$|alumni$)" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$|alumni$), alumni: true" %}
 
 
 {% include section.html %}
@@ -28,6 +28,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: alumni" %}
+{% include list.html data="members" component="portrait" filters="role: alumni, alumni: true" %}
 
 {% include section.html %}
