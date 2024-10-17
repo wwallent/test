@@ -3,6 +3,7 @@ name: Jared Clance
 position: PhD Student
 image: images/Team/jared_headshot.png
 role: phd
+alumni: false
 education:
   - "B.S., 2020, University Tennessee-Knoxville"
   - "M.S., 2022, University of New Mexico"
