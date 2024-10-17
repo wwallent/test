@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are an interdisciplinary group of researchers passionate about research in extreme environments and its applications to microbiology, astrobiology, engineering, and climate science. 
 
 {% include section.html %}
 
@@ -22,9 +20,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 # {% include icon.html icon="fa-solid fa-users" %}Alumni
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab alumni go on to excel in a wide range of academic and professional careers, building on the skills and experiences they gained while working with us. Many of our former members have secured prestigious postdoctoral positions, faculty appointments, and leadership roles in industry. We take pride in their continued success and the lasting impact they make in the scientific community.
 
 {% include section.html %}
 
