@@ -2,6 +2,7 @@
 name: Jill Mikucki
 image: images/Team/JMikucki.jpg
 role: pi
+alumni: false
 affiliation: University of Tennessee-Knoxville
 brief-desc: Professor
 aliases:
