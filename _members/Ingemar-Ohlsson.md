@@ -2,7 +2,8 @@
 name: Ingemar Ohlsson
 position: Postodc
 image: 
-role: alumni
+role: postdoc
+alumni: true
 education:
   - "Ph.D., Northern Illinois University"
 brief-position: Currently a research scientist at the Swedish University of Agricultural Sciences
