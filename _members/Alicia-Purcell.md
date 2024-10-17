@@ -2,7 +2,8 @@
 name: Alicia Purcell
 position: 
 image: 
-role: alumni
+role: Masters
+alumni: true
 education:
   - "M.S., University of Tennessee-Knoxville, 2011"
   - "Ph.D., Northern Arizona University, 2021"
