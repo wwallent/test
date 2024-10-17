@@ -2,7 +2,7 @@
 name: Alicia Purcell
 position: 
 image: 
-role: Masters
+role: M.S.
 alumni: true
 education:
   - "M.S., University of Tennessee-Knoxville, 2011"
