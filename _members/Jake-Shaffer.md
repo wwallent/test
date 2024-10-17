@@ -4,6 +4,7 @@ image: images/photo.jpg
 position: PhD Candidate
 image: images/Team/Shaffer_Juneau.jpg
 role: phd
+alumni: false
 education: 
   - "University of Puget Sound, Tacoma, WA"
 brief-position:
