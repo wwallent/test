@@ -4,6 +4,7 @@ position: Post-bac
 image: 
 role: undergrad
 alumni: true
+description: post-bac
 education:
   - "B.S., University of Tennessee-Knoxville, 2020"
 brief-position: Currently a PhD student at Montana State University-Bozeman
