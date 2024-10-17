@@ -1,7 +1,7 @@
 ---
 name: Alicia Purcell
 position: 
-image: 
+image: images/Team/Alicia Purcell.jpeg
 role: masters
 alumni: true
 education:
