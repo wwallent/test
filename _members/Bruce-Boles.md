@@ -1,7 +1,7 @@
 ---
 name: Bruce Boles
 position: Post-bac
-image: 
+image: images/Team/bruce.jpg
 role: undergrad
 alumni: true
 description: Postbac
