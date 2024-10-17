@@ -3,7 +3,8 @@ name: Caleb Schuler
 position: PhD
 description: PhD
 image: 
-role: alumni
+role: PhD
+alumni: true
 education:
   - "B.S., University of Cincinnati, 2017"
   - "Ph.D., University of Tennessee-Knoxville, 2022"
