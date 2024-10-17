@@ -2,7 +2,8 @@
 name: Dhritiman Ghosh
 position: Postdoc
 image: 
-role: alumni
+role: postdoc
+alumni: true
 education:
   - "M.Sc., Visva Bharati, Shantiniketan"
   - "Ph.D., Jadavpur University"
