@@ -2,6 +2,7 @@
 name: Olivia Vinnes
 image: images/photo.jpg
 role: phd
+alumni: false
 affiliation: University of Tennessee Knoxville
 aliases:
   - O. Vinnes
