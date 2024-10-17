@@ -2,7 +2,7 @@
 name: Kristen Holbrook
 position: Post-bac
 image: 
-role: undergrad
+role: Postbac
 alumni: true
 description: Postbac
 education:
