@@ -10,7 +10,7 @@ brief-position: Currently a research scientist at the Swedish University of Agri
 brief-desc: 
 redirect from:
   - author/ingemar-ohlsson  
-affiliation: University of Tennessee-Knoxville
+affiliation: Currently a research scientist at the Swedish University of Agricultural Sciences
 aliases:
   - I. Ohlsson
   - I Ohlsson
