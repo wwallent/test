@@ -11,7 +11,7 @@ brief-position: Currently a PhD student at Montana State University-Bozeman
 brief-desc: 
 redirect from:
   - author/bruce-boles   
-affiliation: University of Tennessee-Knoxville
+affiliation: Currently a PhD student at Montana State University-Bozeman
 aliases:
   - B. Boles
   - B Boles
