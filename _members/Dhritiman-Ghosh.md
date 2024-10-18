@@ -11,7 +11,7 @@ brief-position:  Currently director of research and development at Certis Biolog
 brief-desc: 
 redirect from:
   - author/dhritiman-ghosh  
-affiliation: University of Tennessee-Knoxville
+affiliation: Currently director of research and development at Certis Biologicals
 aliases:
   - D. Ghosh
   - D Ghosh
