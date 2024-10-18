@@ -11,7 +11,7 @@ brief-position: Currently pursuing a Professional Science Masters at Rice Univer
 brief-desc: 
 redirect from:
   - author/Kristen-holbrook   
-affiliation: University of Tennessee-Knoxville
+affiliation: Currently pursuing a Professional Science Masters at Rice University
 aliases:
   - K. Holbrook
   - K Holbrook
