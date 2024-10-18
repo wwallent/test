@@ -10,7 +10,7 @@ brief-position: Senior Developer and Technical Lead at Kraken Technologies
 brief-desc: 
 redirect from:
   - author/richard-campen   
-affiliation: University of Tennessee-Knoxville
+affiliation: Senior Developer and Technical Lead at Kraken Technologies
 aliases:
   - R. Campen
   - R Campen
